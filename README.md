@@ -2,7 +2,6 @@
 - 🔭 Eu atualmente procuro estágio em front-end / back-end
 - 🌱 Estudando Javascript e Python
 - 💬 Contate-me no email: lucasbrittobr@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href ="https://github.com/B1linha">
