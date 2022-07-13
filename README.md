@@ -1,4 +1,4 @@
-### Oiii! Eu sou Lucas Barreto
+### Oi! Eu sou Lucas Barreto
 - 🔭 Eu atualmente procuro estágio em front-end / back-end
 - 🌱 Estudando Javascript e Python
 - 💬 Contate-me no email: lucasbrittobr@gmail.com
