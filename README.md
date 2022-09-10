@@ -1,6 +1,6 @@
 ### Oi! Eu sou Lucas Barreto
 - 🔭 Estagiário no Bradesco
-- 🌱 Estudando Machine Learning
+- 🌱 Estudando Java
 - 💬 Contate-me no email: lucasbrittobr@gmail.com
 
 <div>
