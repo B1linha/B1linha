@@ -1,5 +1,5 @@
 ### Oi! Eu sou Lucas Barreto
-- 🔭 Eu atualmente procuro estágio em front-end / back-end
+- 🔭 Estagiário no Bradesco
 - 🌱 Estudando Machine Learning
 - 💬 Contate-me no email: lucasbrittobr@gmail.com
 
